@@ -1,0 +1,14 @@
+/*–––––––––––––––––––––––––––––––
+  ../fonts
+–––––––––––––––––––––––––––––––*/
+@font-face {
+    font-family: 'FormaText';
+    src: url('../fonts/FormaText-Regular.eot'); 
+    src: url('../fonts/FormaText-Regular.eot@') format('embedded-opentype'), 
+         url('../fonts/FormaText-Regular.woff') format('woff'), 
+         url('../fonts/FormaText-Regular.ttf') format('truetype'), 
+         url('../fonts/FormaText-Regular.svg') format('svg'); 
+    font-style: normal;
+    font-weight: normal;
+    text-rendering: optimizeLegibility;
+}
